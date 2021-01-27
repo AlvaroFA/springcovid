@@ -1,5 +1,4 @@
-# spring
-Practice time with Spring/Hibernate/Mysql
+#Idea del repositorio
 
-#Idea Principal
-Referescar/Aprender conocimiento de Spring/Hibernate/Java adquiridos desde trabajos anteriores. 
+Afianzar los conocimientos adquiridos en proyectos anteriores. Para ello se va a consumir una API que recoge los datos del Covid y se realizarán monipulaciones con ellos
+
